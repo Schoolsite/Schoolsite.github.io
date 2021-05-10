@@ -1,0 +1,20 @@
+.row {
+    margin-top: 15px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.link a {
+    font-size: 20px;
+}
+
+header {
+    min-height: 60px;
+
+}
+
+.main-page {
+    margin-left: 30px;
+}
